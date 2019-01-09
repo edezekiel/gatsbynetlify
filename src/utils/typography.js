@@ -1,6 +1,5 @@
 import Typography from 'typography'
-import usWebDesignStandardsTheme from 'typography-theme-us-web-design-standards'
+import irvingTheme from 'typography-theme-irving'
 
-const typography = new Typography(usWebDesignStandardsTheme)
-
+const typography = new Typography(irvingTheme)
 export default typography

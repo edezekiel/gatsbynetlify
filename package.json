@@ -21,6 +21,7 @@
     "react-helmet": "^5.2.0",
     "react-typography": "^0.16.18",
     "typography": "^0.16.18",
+    "typography-theme-irving": "^0.16.18",
     "typography-theme-us-web-design-standards": "^0.16.18"
   },
   "keywords": [
